@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks for trying rebase - this is done in rebase-branch
 
 # TECHNOLOGY COLOPHON
 
